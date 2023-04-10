@@ -1,0 +1,1 @@
+This project is a visualization project on airline safety. Here we will be showing how we loaded data on Lufthansa airlines and created a webpage, blog post, powerpoint, and presenation from the data provided on their safety metrics.
