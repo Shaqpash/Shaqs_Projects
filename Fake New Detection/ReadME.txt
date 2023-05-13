@@ -1,0 +1,1 @@
+This Fake new detection system is a tool where you can input textual data and get a response on whether it is fake or not. It uses 4 different categorical classification methods, each with an accuracy around ~99%, to give the best results.
