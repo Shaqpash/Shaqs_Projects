@@ -1,0 +1,1 @@
+This folder contains a code base for projects that were performed in R. It is a seconday language used in this repo.

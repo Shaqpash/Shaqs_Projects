@@ -1,0 +1,1 @@
+The Metorite ETL project involves some API calls and web scraping in order to take data from various sources and combine then into one managable data set. It shows various ETL techniques in order to make a uniform dataset across multiple data sources

@@ -1,0 +1,1 @@
+The MD vs BK data visualization project shows the comparison of market share world wide for McDonalds and Burger King. It shows different techniques and graphs to compare the two. 

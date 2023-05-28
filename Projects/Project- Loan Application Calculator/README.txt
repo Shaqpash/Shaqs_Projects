@@ -1,0 +1,1 @@
+The Loan application calculator is a project where individuals can insert their income, the debt they have, and other parameters in order to find out if they would get approved for the amount they were asking for. 

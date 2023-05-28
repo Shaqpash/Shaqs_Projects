@@ -1,0 +1,1 @@
+The predicting house prices project involves using the area code and the income of any region in order to predict what the home prices are in that area. Although there are some small pockets or areas where house prices and income don't match, there is great confidence in using the tool to find what the average home price would sell in an area. 
